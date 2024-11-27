@@ -2,7 +2,7 @@
 Ad Generationとは、複数のDSP・アドネットワークから、最も収益の高い広告を自動配信するSSPサービスです。  
 https://supership.jp/business/adgeneration/
 
-# AdMobMediation Android SDK
+# ADG-AdMobMediation-Android-SDK
 
-- [Documents](https://github.com/AdGeneration/sdk/wiki)
+- [Documents](https://docs.sdk.ad-generation.jp/sdk/admobmediation_banner_interstitial_ad_android.html)
 - [Downloads](https://github.com/AdGeneration/ADG-AdMobMediation-Android-SDK/releases)
