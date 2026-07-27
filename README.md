@@ -4,5 +4,5 @@ https://supership.jp/business/adgeneration/
 
 # ADG-AdMobMediation-Android-SDK
 
-- [Documents](https://docs.sdk.ad-generation.jp/sdk/admobmediation_banner_interstitial_ad_android.html)
+- [Documents](https://docs.sdk.ad-generation.jp/ad-generation/mediation/admobmediation_banner_interstitial_ad_android)
 - [Downloads](https://github.com/AdGeneration/ADG-AdMobMediation-Android-SDK/releases)
